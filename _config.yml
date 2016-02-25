@@ -1,0 +1,28 @@
+name: The Mueller-Harders
+favicon: null
+layout_spectrum: 0.871322960825637
+typography_spectrum: 0.8214353800285608
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.16739160986617208
+  lightness: 0.9267119511496276
+  saturation: 0.5768768659327179
+  rhythmicContrast: 0.4729593424126506
+purpose: []
