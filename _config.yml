@@ -1,7 +1,7 @@
 name: The Mueller-Harders
 favicon: null
-layout_spectrum: 0.871322960825637
-typography_spectrum: 0.8214353800285608
+layout_spectrum: 0.75804
+typography_spectrum: 0.3898
 title: 'The occasional and informal journal of the Mueller-Harder family: Erik, Karen, Timothy, & Cameron.'
 cta:
   domain: null
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#B8B42D'
-    - '#697A21'
-    - '#FFFCE8'
-    - '#3E363F'
-    - '#DD403A'
-  brandStrength: 0.16739160986617208
+    - '#8b734f'
+    - '#f8e5bd'
+    - '#342619'
+    - '#ab9269'
+    - '#804d1a'
+  brandStrength: 0.1875
   lightness: 0.9267119511496276
   saturation: 0.5768768659327179
   rhythmicContrast: 0.4729593424126506
